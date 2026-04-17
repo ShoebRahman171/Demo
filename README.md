@@ -1,3 +1,3 @@
 # Demo
 My first Git Repo
-Author - Shoe Rahman
+Author - Shoeb Rahman
